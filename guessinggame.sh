@@ -22,7 +22,7 @@ do
 		echo "Your guess '$response' is too small. Please try again."
 	
 	else
-		echo "Your guess '$response' is too large. Please try again"
+		echo "Your guess '$response' is too large. Please try again."
 	fi
 
 	read response
